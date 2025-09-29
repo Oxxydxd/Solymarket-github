@@ -1,0 +1,26 @@
+Description
+
+This repository contains a lightweight demo frontend for a Solana-based prediction market.
+It is designed to showcase the concept and UI without exposing production logic, smart contract code, or backend integrations.
+
+The goal of this repo is to provide a legit public-facing version that demonstrates how a prediction market might look and behave, while keeping proprietary implementation details private.
+
+What this demo includes
+Vanilla HTML, CSS, and JavaScript (no frameworks).
+A mock "Connect Wallet" button (simulated only).
+A demo "Create Market" form that builds market cards in-memory.
+Preloaded mock markets displayed as example cards.
+What this demo does not include
+No backend/API calls.
+No Solana smart contract logic.
+No real wallet or transaction support.
+Intended use
+
+This repo can be shared publicly on GitHub to:
+
+Demonstrate UI and design concepts.
+Show potential contributors or investors what the app could look like.
+Keep your production code secure in a private repo.
+License
+
+All rights reserved. This code is provided strictly for demo and presentation purposes.
